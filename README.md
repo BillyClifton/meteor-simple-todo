@@ -1,4 +1,4 @@
 # meteor-simple-todo
-A simple single page to do application. Includes accounts.  
+A simple meteorjs single page to do application.  
 
-[Demo link](http://billy_clifton_to_do_list.meteor.com/)
+[Demo](http://billy_clifton_to_do_list.meteor.com/)
